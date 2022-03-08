@@ -1,0 +1,1 @@
+1. Open the project into you IDE by File >> Open Project Path to the 'TestProject'
